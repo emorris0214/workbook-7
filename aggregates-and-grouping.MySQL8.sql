@@ -10,7 +10,7 @@ FROM Suppliers;
 SELECT SUM(Salary) FROM Employees;
 
 -- 3. What is the price of the cheapest item that Northwind sells?
-
+SELECT * 
 -- 4. What is the average price of items that Northwind sells?
 -- 5. What is the price of the most expensive item that Northwind sells?
 -- 6. What is the supplier ID of each supplier and the number of items they supply? You can answer this query by only looking at the Products table.
